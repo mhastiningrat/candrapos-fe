@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import AuthPage from "./pages/AuthPage";
 import MasterPage from "./pages/MasterPage";
 import TransactionKulakPage from "./pages/TransactionKulakPage";
-import MainLayout from "./layouts/MainLayout";
+import MainLayout from "./Layouts/MainLayout";
 import DashboardPage from "./pages/DashboardPage";
 
 function App() {
