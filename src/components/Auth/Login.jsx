@@ -8,7 +8,7 @@ const Login = () => {
 
 	const actionLogin = () => {
 		if (user == "admin" && password == "admin") {
-			navigate("/master");
+			navigate("/dashboard");
 		}
 	};
 	return (
